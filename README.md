@@ -27,3 +27,18 @@ PaymentMode: Mode of payment (e.g., Online, Offline).
 Currency: Currency used in the transaction (e.g., INR).
 CustomerAccountNumber: Account number of the customer.
 MerchantAccountNumber: Account number of the merchant.
+
+
+ Adding a Page & Age Group Column
+ 
+ Adding a Line Chart
+ 
+ Adding a Matrix Visual
+ 
+ Syncing Slicers & Applying Conditional Formatting
+ 
+ Adding Bookmarks for Transactions
+ 
+ Adding Bookmarks for Remaining Balance
+ 
+
