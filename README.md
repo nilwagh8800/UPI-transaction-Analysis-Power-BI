@@ -1,8 +1,8 @@
 UPI Transaction Analysis - Power BI
 
-![image alt](https://github.com/nilwagh8800/UPI-transaction-Analysis-Power-BI/blob/563ea0fd4c3bf4bb75f128a6fea3e2c69a539608/Screenshot%202025-01-19%20123147.png)
+![image alt](https://github.com/nilwagh8800/UPI-transaction-Analysis-Power-BI/blob/b9105102b1dcab060859cb9b8d84507433eeff3f/Screenshot%202025-01-25%20195447.png)
 
-![image alt](https://github.com/nilwagh8800/UPI-transaction-Analysis-Power-BI/blob/563ea0fd4c3bf4bb75f128a6fea3e2c69a539608/Screenshot%202025-01-19%20123300.png)
+![image alt](https://github.com/nilwagh8800/UPI-transaction-Analysis-Power-BI/blob/b9105102b1dcab060859cb9b8d84507433eeff3f/Screenshot%202025-01-25%20195535.png)
 
 
 The UPI+Transactions.xlsx file contains the following columns:
